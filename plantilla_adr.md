@@ -3,7 +3,7 @@
 **Fecha:** [YYYY-MM-DD]  
 **Estado:** Propuesto | Aceptado | Deprecado | Reemplazado por [ADR-XXX]
 
-## Contexto
+## Contexto del tema
 
 [Describir el contexto y el problema que requiere una decisión. ¿Qué fuerzas están en juego? ¿Cuáles son las restricciones técnicas, de negocio o de equipo?]
 
