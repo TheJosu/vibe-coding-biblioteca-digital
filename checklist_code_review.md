@@ -12,7 +12,7 @@
 
 ---
 
-## 1. Funcionalidad
+## 1. Funcionalidad del sistema
 
 - [ ] El código hace lo que se espera según los requisitos
 - [ ] Los casos edge están manejados
